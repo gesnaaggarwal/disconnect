@@ -84,11 +84,11 @@
     "Id": "5056dc18-0c93-4e2b-9e6b-40b57c939950",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "Name": "disconnectgit",
+    "Name": "disconnectgit2",
     "OriginatingVersion": "1.324"
   },
   "PublishInfo": {
-    "AppName": "disconnectgit",
+    "AppName": "disconnectgit2",
     "BackgroundColor": "RGBA(0,176,240,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",

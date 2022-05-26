@@ -1,7 +1,7 @@
 Screen1 As screen:
 
     Label1 As label:
-        Text: ="Do a commit but again"
+        Text: ="Do a commit but again pt 5  - gesna"
         X: =40
         Y: =40
         ZIndex: =1
